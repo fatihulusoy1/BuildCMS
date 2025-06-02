@@ -20,3 +20,99 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+/* Styles for the side menu */
+.side-menu {
+    height: 100%;
+    width: 0; /* Initially hidden */
+    position: fixed;
+    z-index: 1000; /* Ensure it's above other content */
+    top: 0;
+    left: 0;
+    background-color: #f8f9fa; /* Light gray background */
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 56px; /* Adjust to match header height */
+    transition: 0.3s ease-in-out; /* Smooth transition for opening/closing */
+    border-right: 1px solid #dee2e6;
+}
+
+.side-menu.open {
+    width: 250px;
+}
+
+.side-menu a {
+    padding: 10px 15px;
+    text-decoration: none;
+    font-size: 18px;
+    color: #343a40; /* Dark gray text */
+    display: block;
+    transition: 0.2s ease-in-out;
+}
+
+.side-menu a:hover {
+    color: #007bff; /* Blue on hover */
+    background-color: #e9ecef; /* Light hover background for links */
+}
+
+/* Style for the close button inside the side menu */
+.side-menu .close-btn {
+    position: absolute;
+    top: 0px; /* Align with padding-top of menu */
+    right: 15px;
+    font-size: 36px;
+    line-height: 56px; /* Vertically center with header/padding */
+    color: #343a40;
+}
+.side-menu .close-btn:hover {
+    color: #0056b3; /* Darker blue on hover */
+}
+
+
+/* Style for the main content area */
+#mainContent {
+    transition: margin-left 0.3s ease-in-out;
+    padding: 15px; /* Add some padding to main content */
+}
+
+#mainContent.shifted {
+    margin-left: 250px;
+}
+
+/* Style for the toggle button (hamburger icon) */
+.open-btn {
+    font-size: 25px; /* Slightly larger icon */
+    cursor: pointer;
+    background-color: transparent; /* Make it transparent */
+    color: #343a40; /* Dark gray text */
+    padding: 5px 10px; /* Adjust padding */
+    border: none;
+    margin-right: 10px; /* Add some margin to separate from brand */
+}
+
+.open-btn:hover {
+    color: #007bff; /* Blue on hover */
+}
+
+/* Responsive adjustments */
+@media (max-width: 767.98px) {
+    .side-menu {
+        padding-top: 56px; /* Ensure padding is consistent with header */
+    }
+    #mainContent.shifted {
+        margin-left: 0; /* Don't shift content on small screens if menu overlays */
+    }
+    /* Optional: On small screens, you might want the menu to overlay content instead of pushing it.
+       If so, remove margin-left adjustments for #mainContent.shifted and ensure .side-menu.open has high z-index.
+       The current setup pushes content, which might be fine.
+    */
+}
+
+/* Adjustments for when the Bootstrap navbar collapses */
+@media (max-width: 575.98px) {
+    .navbar-brand {
+        margin-left: 5px; /* Add a bit of margin if open-btn is too close */
+    }
+     .open-btn {
+        margin-left: 0; /* No extra margin on very small screens */
+    }
+}
