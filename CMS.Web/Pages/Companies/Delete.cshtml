@@ -1,0 +1,70 @@
+@page "{id:int}"
+@model CMS.Web.Pages.Companies.DeleteModel
+
+@{
+    ViewData["Title"] = "Delete Company";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+@if (!string.IsNullOrEmpty(Model.ErrorMessage))
+{
+    <div class="alert alert-danger" role="alert">
+        @Model.ErrorMessage
+    </div>
+}
+else
+{
+    <h3>Are you sure you want to delete this company?</h3>
+}
+
+<div>
+    <h4>Company Details</h4>
+    <hr />
+    @if (Model.CompanyToDelete != null && Model.CompanyToDelete.Id != 0) // Check if CompanyToDelete has been loaded
+    {
+        <dl class="row">
+            <dt class="col-sm-3">
+                @Html.DisplayNameFor(model => model.CompanyToDelete.Name)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.CompanyToDelete.Name)
+            </dd>
+            <dt class="col-sm-3">
+                @Html.DisplayNameFor(model => model.CompanyToDelete.Address)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.CompanyToDelete.Address)
+            </dd>
+            <dt class="col-sm-3">
+                @Html.DisplayNameFor(model => model.CompanyToDelete.PhoneNumber)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.CompanyToDelete.PhoneNumber)
+            </dd>
+            <dt class="col-sm-3">
+                @Html.DisplayNameFor(model => model.CompanyToDelete.Email)
+            </dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.CompanyToDelete.Email)
+            </dd>
+        </dl>
+
+        <form method="post">
+            <input type="hidden" asp-for="CompanyToDelete.Id" />
+            <div class="form-group mt-3">
+                <input type="submit" value="Delete" class="btn btn-danger" />
+                <a asp-page="./Index" class="btn btn-secondary">Cancel</a>
+            </div>
+        </form>
+    }
+    else if (string.IsNullOrEmpty(Model.ErrorMessage)) // Only show if no specific error message
+    {
+        <div class="alert alert-warning" role="alert">
+            Company details could not be loaded. It might have been deleted already.
+            <a asp-page="./Index" class="alert-link">Return to List</a>
+        </div>
+    }
+    @* If ErrorMessage is present, it's already shown at the top *@
+
+</div>
