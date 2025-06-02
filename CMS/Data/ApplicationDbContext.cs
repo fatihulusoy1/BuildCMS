@@ -10,5 +10,6 @@ namespace CMS.Data
         }
 
         public DbSet<Post> Posts { get; set; }
+        public DbSet<Company> Companies { get; set; }
     }
 }

@@ -1,0 +1,54 @@
+@page "{id:int}"
+@model CMS.Web.Pages.Companies.EditModel
+
+@{
+    ViewData["Title"] = "Edit Company";
+}
+
+<h2>@ViewData["Title"]</h2>
+<h4>Company</h4>
+<hr />
+<div class="row">
+    <div class="col-md-6">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="CompanyToUpdate.Id" />
+
+            @if (!string.IsNullOrEmpty(Model.ErrorMessage))
+            {
+                <div class="alert alert-danger" role="alert">
+                    @Model.ErrorMessage
+                </div>
+            }
+
+            <div class="form-group mb-3">
+                <label asp-for="CompanyToUpdate.Name" class="control-label"></label>
+                <input asp-for="CompanyToUpdate.Name" class="form-control" />
+                <span asp-validation-for="CompanyToUpdate.Name" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="CompanyToUpdate.Address" class="control-label"></label>
+                <input asp-for="CompanyToUpdate.Address" class="form-control" />
+                <span asp-validation-for="CompanyToUpdate.Address" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="CompanyToUpdate.PhoneNumber" class="control-label"></label>
+                <input asp-for="CompanyToUpdate.PhoneNumber" class="form-control" />
+                <span asp-validation-for="CompanyToUpdate.PhoneNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="CompanyToUpdate.Email" class="control-label"></label>
+                <input asp-for="CompanyToUpdate.Email" class="form-control" />
+                <span asp-validation-for="CompanyToUpdate.Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+                <a asp-page="./Index" class="btn btn-secondary">Back to List</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

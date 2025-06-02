@@ -1,3 +1,5 @@
+using CMS.Web.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -13,6 +15,14 @@ builder.Services.AddHttpClient<CMS.Web.Services.PostService>(client =>
 });
 
 builder.Services.AddScoped<CMS.Web.Services.PostService>();
+
+// HttpClient ve CompanyService kaydý
+builder.Services.AddHttpClient<CompanyService>(client =>
+{
+    client.BaseAddress = new Uri(apiBaseUrl);
+});
+
+builder.Services.AddScoped<CompanyService>();
 
 var app = builder.Build();
 
