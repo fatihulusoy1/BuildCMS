@@ -1,0 +1,58 @@
+@page
+@model CMS.Web.Pages.Posts.CreateModel
+@{
+    ViewData["Title"] = "Create Post";
+}
+
+<h1>Create Post</h1>
+<hr />
+<div class="row">
+    <div class="col-md-6"> @* Increased col width for better form layout *@
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+            @if (!string.IsNullOrEmpty(Model.ErrorMessage))
+            {
+                <div class="alert alert-danger" role="alert">
+                    <strong>Error:</strong> @Model.ErrorMessage
+                </div>
+            }
+            @* Success message will be shown on Index page after redirect *@
+            @* @if (!string.IsNullOrEmpty(Model.SuccessMessage))
+            {
+                <div class="alert alert-success" role="alert">
+                    @Model.SuccessMessage
+                </div>
+            } *@
+
+            <div class="form-group mb-3"> @* Increased margin-bottom for spacing *@
+                <label asp-for="NewPost.Title" class="control-label"></label>
+                <input asp-for="NewPost.Title" class="form-control" />
+                <span asp-validation-for="NewPost.Title" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="NewPost.Content" class="control-label"></label>
+                <textarea asp-for="NewPost.Content" class="form-control" rows="5"></textarea>
+                <span asp-validation-for="NewPost.Content" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="NewPost.PublishedDate" class="control-label"></label>
+                <input asp-for="NewPost.PublishedDate" class="form-control" type="datetime-local" />
+                <span asp-validation-for="NewPost.PublishedDate" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="NewPost.AuthorId" class="control-label"></label>
+                <input asp-for="NewPost.AuthorId" class="form-control" type="number" />
+                <span asp-validation-for="NewPost.AuthorId" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-4"> @* Increased margin-top for button spacing *@
+                <input type="submit" value="Create" class="btn btn-primary" />
+                <a asp-page="./Index" class="btn btn-secondary ms-2">Back to List</a> @* Added margin for spacing *@
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

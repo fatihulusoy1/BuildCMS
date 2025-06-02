@@ -1,0 +1,106 @@
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\bin\Debug\net8.0\appsettings.json
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\bin\Debug\net8.0\CMS.staticwebassets.endpoints.json
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\bin\Debug\net8.0\CMS.exe
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\bin\Debug\net8.0\CMS.deps.json
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\bin\Debug\net8.0\CMS.runtimeconfig.json
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\bin\Debug\net8.0\CMS.dll
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\bin\Debug\net8.0\CMS.pdb
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\obj\Debug\net8.0\CMS.csproj.AssemblyReference.cache
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\obj\Debug\net8.0\CMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\obj\Debug\net8.0\CMS.AssemblyInfoInputs.cache
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\obj\Debug\net8.0\CMS.AssemblyInfo.cs
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\obj\Debug\net8.0\CMS.csproj.CoreCompileInputs.cache
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\obj\Debug\net8.0\CMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\obj\Debug\net8.0\CMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\obj\Debug\net8.0\CMS.sourcelink.json
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\obj\Debug\net8.0\scopedcss\bundle\CMS.styles.css
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\obj\Debug\net8.0\staticwebassets\msbuild.CMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\obj\Debug\net8.0\staticwebassets\msbuild.CMS.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\obj\Debug\net8.0\staticwebassets\msbuild.build.CMS.props
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CMS.props
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CMS.props
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\obj\Debug\net8.0\CMS.csproj.Up2Date
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\obj\Debug\net8.0\CMS.dll
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\obj\Debug\net8.0\refint\CMS.dll
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\obj\Debug\net8.0\CMS.pdb
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\obj\Debug\net8.0\CMS.genruntimeconfig.cache
+C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS\obj\Debug\net8.0\ref\CMS.dll
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\bin\Debug\net8.0\appsettings.json
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\bin\Debug\net8.0\CMS.staticwebassets.endpoints.json
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\bin\Debug\net8.0\CMS.exe
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\bin\Debug\net8.0\CMS.deps.json
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\bin\Debug\net8.0\CMS.runtimeconfig.json
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\bin\Debug\net8.0\CMS.dll
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\bin\Debug\net8.0\CMS.pdb
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\obj\Debug\net8.0\CMS.csproj.AssemblyReference.cache
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\obj\Debug\net8.0\CMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\obj\Debug\net8.0\CMS.AssemblyInfoInputs.cache
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\obj\Debug\net8.0\CMS.AssemblyInfo.cs
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\obj\Debug\net8.0\CMS.csproj.CoreCompileInputs.cache
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\obj\Debug\net8.0\CMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\obj\Debug\net8.0\CMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\obj\Debug\net8.0\CMS.sourcelink.json
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\obj\Debug\net8.0\scopedcss\bundle\CMS.styles.css
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\obj\Debug\net8.0\staticwebassets\msbuild.CMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\obj\Debug\net8.0\staticwebassets\msbuild.CMS.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\obj\Debug\net8.0\staticwebassets\msbuild.build.CMS.props
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CMS.props
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CMS.props
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\obj\Debug\net8.0\CMS.csproj.Up2Date
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\obj\Debug\net8.0\CMS.dll
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\obj\Debug\net8.0\refint\CMS.dll
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\obj\Debug\net8.0\CMS.pdb
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\obj\Debug\net8.0\CMS.genruntimeconfig.cache
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS\obj\Debug\net8.0\ref\CMS.dll

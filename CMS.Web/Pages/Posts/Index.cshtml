@@ -1,0 +1,51 @@
+@page
+@model CMS.Web.Pages.Posts.IndexModel
+@{
+    ViewData["Title"] = "Posts";
+}
+
+<h1>Posts</h1>
+
+@if (!string.IsNullOrEmpty(Model.ErrorMessage))
+{
+    <div class="alert alert-danger" role="alert">
+        <strong>Error:</strong> @Model.ErrorMessage
+        <p>Please ensure the CMS API project is running and accessible. The configured API base URL is: <code>https://localhost:5001/</code></p>
+        <p>Target endpoint: <code>api/posts</code></p>
+    </div>
+}
+
+<p>
+    @* <a asp-page="Create">Create New Post</a> *@
+</p>
+
+@if (Model.Posts != null && Model.Posts.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>@Html.DisplayNameFor(model => model.Posts[0].Title)</th>
+                <th>@Html.DisplayNameFor(model => model.Posts[0].PublishedDate)</th>
+                <th>@Html.DisplayNameFor(model => model.Posts[0].AuthorId)</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Posts)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.Title)</td>
+                    <td>@Html.DisplayFor(modelItem => item.PublishedDate)</td>
+                    <td>@Html.DisplayFor(modelItem => item.AuthorId)</td>
+                    <td>
+                        @* Edit, Details, Delete linkleri buraya eklenebilir *@
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else if (string.IsNullOrEmpty(Model.ErrorMessage))
+{
+    <p>No posts found.</p>
+}
