@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Con-06\\source\\repos\\BuildCMS\\BuildCMS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{23EA7235-B116-4EE9-9566-17E455F52556}|CMS\\CMS.csproj|c:\\users\\con-06\\source\\repos\\buildcms\\buildcms\\cms\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23EA7235-B116-4EE9-9566-17E455F52556}|CMS\\CMS.csproj|solutionrelative:cms\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{137121A9-2A09-422B-B6DA-473D8145D2C4}|CMS.Web\\CMS.Web.csproj|c:\\users\\con-06\\source\\repos\\buildcms\\buildcms\\cms.web\\cms.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{137121A9-2A09-422B-B6DA-473D8145D2C4}|CMS.Web\\CMS.Web.csproj|solutionrelative:cms.web\\cms.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,21 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Post.cs",
-              "DocumentMoniker": "C:\\Users\\Con-06\\source\\repos\\BuildCMS\\BuildCMS\\CMS\\Models\\Post.cs",
-              "RelativeDocumentMoniker": "CMS\\Models\\Post.cs",
-              "ToolTip": "C:\\Users\\Con-06\\source\\repos\\BuildCMS\\BuildCMS\\CMS\\Models\\Post.cs",
-              "RelativeToolTip": "CMS\\Models\\Post.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T19:55:42.494Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
@@ -36,6 +23,23 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CMS.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\Con-06\\source\\repos\\BuildCMS\\BuildCMS\\CMS.Web\\CMS.Web.csproj",
+              "RelativeDocumentMoniker": "CMS.Web\\CMS.Web.csproj",
+              "ToolTip": "C:\\Users\\Con-06\\source\\repos\\BuildCMS\\BuildCMS\\CMS.Web\\CMS.Web.csproj",
+              "RelativeToolTip": "CMS.Web\\CMS.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-02T20:52:48.33Z",
+              "EditorCaption": ""
             }
           ]
         },
