@@ -6,7 +6,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorPages();
 
 // ApiBaseUrl config ayari (appsettings.json veya ortam degiskeninden okunuyor)
-string apiBaseUrl = builder.Configuration["ApiBaseUrl"] ?? "https://localhost:5001/"; // Default fallback
+string? configuredApiBaseUrl = builder.Configuration["ApiBaseUrl"];
+string apiBaseUrl = !string.IsNullOrWhiteSpace(configuredApiBaseUrl) ? configuredApiBaseUrl : "https://localhost:5001/"; // Default fallback
 
 // HttpClient ve PostService kaydi
 builder.Services.AddHttpClient<CMS.Web.Services.PostService>(client =>
