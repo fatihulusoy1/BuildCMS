@@ -25,7 +25,16 @@ namespace CMS.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Company>>> GetCompanies()
         {
-            return await _context.Companies.ToListAsync();
+            try
+            {
+                return await _context.Companies.ToListAsync();
+            }
+            catch (Exception ex) // Catching a general Exception for now. Consider NpgsqlException for more specificity.
+            {
+                // Log the exception (not implemented here, but good practice)
+                // logger.LogError(ex, "An error occurred while fetching companies.");
+                return StatusCode(StatusCodes.Status500InternalServerError, new { message = "An error occurred while fetching companies.", details = ex.Message });
+            }
         }
 
         // GET: api/Companies/5
@@ -78,10 +87,19 @@ namespace CMS.Controllers
         [HttpPost]
         public async Task<ActionResult<Company>> CreateCompany(Company company)
         {
-            _context.Companies.Add(company);
-            await _context.SaveChangesAsync();
+            try
+            {
+                _context.Companies.Add(company);
+                await _context.SaveChangesAsync();
 
-            return CreatedAtAction("GetCompany", new { id = company.Id }, company);
+                return CreatedAtAction(nameof(GetCompany), new { id = company.Id }, company);
+            }
+            catch (Exception ex) // Catching a general Exception for now. Consider DbUpdateException or NpgsqlException.
+            {
+                // Log the exception (not implemented here, but good practice)
+                // logger.LogError(ex, "An error occurred while creating a company.");
+                return StatusCode(StatusCodes.Status500InternalServerError, new { message = "An error occurred while creating the company.", details = ex.Message });
+            }
         }
 
         // DELETE: api/Companies/5
