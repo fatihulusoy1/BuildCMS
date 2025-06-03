@@ -35,8 +35,8 @@ C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni k
 C:\Users\Con-06\OneDrive - Asyst Yazılım Sistem Çözümleri\Masaüstü\Yeni klasör (2)\Building\CMS.Web\obj\Debug\net8.0\ref\CMS.Web.dll
 C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS.Web\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS.Web\bin\Debug\net8.0\appsettings.json
-C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS.Web\bin\Debug\net8.0\CMS.Web.staticwebassets.endpoints.json
 C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS.Web\bin\Debug\net8.0\CMS.Web.staticwebassets.runtime.json
+C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS.Web\bin\Debug\net8.0\CMS.Web.staticwebassets.endpoints.json
 C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS.Web\bin\Debug\net8.0\CMS.Web.exe
 C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS.Web\bin\Debug\net8.0\CMS.Web.deps.json
 C:\Users\Con-06\source\repos\BuildCMS\BuildCMS\CMS.Web\bin\Debug\net8.0\CMS.Web.runtimeconfig.json

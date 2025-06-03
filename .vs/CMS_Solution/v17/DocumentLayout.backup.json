@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Con-06\\source\\repos\\BuildCMS\\BuildCMS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{23EA7235-B116-4EE9-9566-17E455F52556}|CMS\\CMS.csproj|c:\\users\\con-06\\source\\repos\\buildcms\\buildcms\\cms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{23EA7235-B116-4EE9-9566-17E455F52556}|CMS\\CMS.csproj|solutionrelative:cms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{137121A9-2A09-422B-B6DA-473D8145D2C4}|CMS.Web\\CMS.Web.csproj|c:\\users\\con-06\\source\\repos\\buildcms\\buildcms\\cms.web\\services\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{137121A9-2A09-422B-B6DA-473D8145D2C4}|CMS.Web\\CMS.Web.csproj|solutionrelative:cms.web\\services\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23EA7235-B116-4EE9-9566-17E455F52556}|CMS\\CMS.csproj|c:\\users\\con-06\\source\\repos\\buildcms\\buildcms\\cms\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{23EA7235-B116-4EE9-9566-17E455F52556}|CMS\\CMS.csproj|solutionrelative:cms\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{137121A9-2A09-422B-B6DA-473D8145D2C4}|CMS.Web\\CMS.Web.csproj|c:\\users\\con-06\\source\\repos\\buildcms\\buildcms\\cms.web\\cms.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{137121A9-2A09-422B-B6DA-473D8145D2C4}|CMS.Web\\CMS.Web.csproj|solutionrelative:cms.web\\cms.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{137121A9-2A09-422B-B6DA-473D8145D2C4}|CMS.Web\\CMS.Web.csproj|c:\\users\\con-06\\source\\repos\\buildcms\\buildcms\\cms.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{137121A9-2A09-422B-B6DA-473D8145D2C4}|CMS.Web\\CMS.Web.csproj|solutionrelative:cms.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{23EA7235-B116-4EE9-9566-17E455F52556}|CMS\\CMS.csproj|c:\\users\\con-06\\source\\repos\\buildcms\\buildcms\\cms\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23EA7235-B116-4EE9-9566-17E455F52556}|CMS\\CMS.csproj|solutionrelative:cms\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23EA7235-B116-4EE9-9566-17E455F52556}|CMS\\CMS.csproj|c:\\users\\con-06\\source\\repos\\buildcms\\buildcms\\cms\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23EA7235-B116-4EE9-9566-17E455F52556}|CMS\\CMS.csproj|solutionrelative:cms\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{137121A9-2A09-422B-B6DA-473D8145D2C4}|CMS.Web\\CMS.Web.csproj|c:\\users\\con-06\\source\\repos\\buildcms\\buildcms\\cms.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{137121A9-2A09-422B-B6DA-473D8145D2C4}|CMS.Web\\CMS.Web.csproj|solutionrelative:cms.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{137121A9-2A09-422B-B6DA-473D8145D2C4}|CMS.Web\\CMS.Web.csproj|c:\\users\\con-06\\source\\repos\\buildcms\\buildcms\\cms.web\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{137121A9-2A09-422B-B6DA-473D8145D2C4}|CMS.Web\\CMS.Web.csproj|solutionrelative:cms.web\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,40 +46,81 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CMS.Web",
+              "DocumentMoniker": "C:\\Users\\Con-06\\source\\repos\\BuildCMS\\BuildCMS\\CMS.Web\\CMS.Web.csproj",
+              "RelativeDocumentMoniker": "CMS.Web\\CMS.Web.csproj",
+              "ToolTip": "C:\\Users\\Con-06\\source\\repos\\BuildCMS\\BuildCMS\\CMS.Web\\CMS.Web.csproj",
+              "RelativeToolTip": "CMS.Web\\CMS.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-03T10:59:29.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Con-06\\source\\repos\\BuildCMS\\BuildCMS\\CMS\\appsettings.json",
-              "RelativeDocumentMoniker": "CMS\\appsettings.json",
-              "ToolTip": "C:\\Users\\Con-06\\source\\repos\\BuildCMS\\BuildCMS\\CMS\\appsettings.json",
-              "RelativeToolTip": "CMS\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-02T21:46:54.679Z",
+              "Title": "CompanyService.cs",
+              "DocumentMoniker": "C:\\Users\\Con-06\\source\\repos\\BuildCMS\\BuildCMS\\CMS.Web\\Services\\CompanyService.cs",
+              "RelativeDocumentMoniker": "CMS.Web\\Services\\CompanyService.cs",
+              "ToolTip": "C:\\Users\\Con-06\\source\\repos\\BuildCMS\\BuildCMS\\CMS.Web\\Services\\CompanyService.cs",
+              "RelativeToolTip": "CMS.Web\\Services\\CompanyService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T10:58:38.244Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Con-06\\source\\repos\\BuildCMS\\BuildCMS\\CMS.Web\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "CMS.Web\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Con-06\\source\\repos\\BuildCMS\\BuildCMS\\CMS.Web\\appsettings.Development.json",
-              "RelativeToolTip": "CMS.Web\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-02T21:46:20.408Z"
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\Con-06\\source\\repos\\BuildCMS\\BuildCMS\\CMS\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "CMS\\Models\\Company.cs",
+              "ToolTip": "C:\\Users\\Con-06\\source\\repos\\BuildCMS\\BuildCMS\\CMS\\Models\\Company.cs",
+              "RelativeToolTip": "CMS\\Models\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T10:58:08.954Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Con-06\\source\\repos\\BuildCMS\\BuildCMS\\CMS\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "CMS\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Con-06\\source\\repos\\BuildCMS\\BuildCMS\\CMS\\appsettings.Development.json",
-              "RelativeToolTip": "CMS\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-02T21:46:13.203Z"
+              "DocumentIndex": 3,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\Con-06\\source\\repos\\BuildCMS\\BuildCMS\\CMS\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "CMS\\Models\\Post.cs",
+              "ToolTip": "C:\\Users\\Con-06\\source\\repos\\BuildCMS\\BuildCMS\\CMS\\Models\\Post.cs",
+              "RelativeToolTip": "CMS\\Models\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T10:58:06.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Con-06\\source\\repos\\BuildCMS\\BuildCMS\\CMS.Web\\Program.cs",
+              "RelativeDocumentMoniker": "CMS.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Con-06\\source\\repos\\BuildCMS\\BuildCMS\\CMS.Web\\Program.cs",
+              "RelativeToolTip": "CMS.Web\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T10:55:10.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\Con-06\\source\\repos\\BuildCMS\\BuildCMS\\CMS.Web\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "CMS.Web\\Models\\Company.cs",
+              "ToolTip": "C:\\Users\\Con-06\\source\\repos\\BuildCMS\\BuildCMS\\CMS.Web\\Models\\Company.cs",
+              "RelativeToolTip": "CMS.Web\\Models\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T10:54:56.542Z",
+              "EditorCaption": ""
             }
           ]
         },

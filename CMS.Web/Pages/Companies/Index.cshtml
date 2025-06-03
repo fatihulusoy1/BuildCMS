@@ -1,6 +1,6 @@
 @page
 @model CMS.Web.Pages.Companies.IndexModel
-@using CMS.Web.Models // Required for DisplayNameFor if Company model is in this namespace
+@using CMS.Web.Models 
 
 @{
     ViewData["Title"] = "Companies";
@@ -9,7 +9,8 @@
 <h1>@ViewData["Title"]</h1>
 
 <p>
-    <a asp-page="Create" class="btn btn-primary">Create New Company</a>
+    <a asp-page="
+" class="btn btn-primary">Create New Company</a>
 </p>
 
 @if (!string.IsNullOrEmpty(Model.SuccessMessage))

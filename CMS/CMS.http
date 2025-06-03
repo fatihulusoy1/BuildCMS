@@ -1,6 +1,19 @@
+//@CMS_HostAddress = https://localhost:7295/
 @CMS_HostAddress = http://localhost:5133
 
 GET {{CMS_HostAddress}}/weatherforecast/
 Accept: application/json
-
 ###
+
+
+POST {{CMS_HostAddress}}/api/Companies/
+{
+  "id": 2,
+  "name": "test",
+  "address": "adres",
+  "phoneNumber": "000",
+  "email": "erw@gmail.com"
+}
+Accept: application/json
+###
+ 
